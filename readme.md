@@ -18,10 +18,11 @@ yarn add react-random-interval-hook
 ```javascript
 useRandomInterval((stop) => {
   // do what you want
+  
   if (stopCondition) {
     stop();
   }
-}, 1000, 2000);
+}, 1000, 2000); // interval between 1000 and 2000 ms
 ```
 
 ### License

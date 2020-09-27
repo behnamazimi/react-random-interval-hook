@@ -1,0 +1,33 @@
+{
+  "name": "react-random-interval-hook",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {},
+  "keywords": [
+    "react",
+    "interval",
+    "hook"
+  ],
+  "author": "Behnam Azimi",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/behnamazimi/react-random-interval.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/behnamazimi/react-random-interval/issues"
+  },
+  "homepage": "https://github.com/behnamazimi/react-random-interval#readme",
+  "peerDependencies": {
+    "react": ">=16.10"
+  },
+  "devDependencies": {}
+}

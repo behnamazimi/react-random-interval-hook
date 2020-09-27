@@ -1,4 +1,5 @@
 # Random Interval Hook
+Make an interval with random time delay specified with min and max delay between each call. 
 
 ### Installation
 

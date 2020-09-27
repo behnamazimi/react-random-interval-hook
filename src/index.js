@@ -1,5 +1,14 @@
+import React, {useRef,useEffect} from "react";
+
 const randomNum = (min, max = min) => Math.random() * (max - min) + min;
 
+/**
+ *
+ * @param callback
+ * @param minDelay
+ * @param maxDelay
+ * @returns {{stop: (function(): null)}}
+ */
 export default function useRandomInterval(callback, minDelay, maxDelay) {
   const interval = useRef(null);
 

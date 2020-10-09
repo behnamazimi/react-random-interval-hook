@@ -19,13 +19,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/behnamazimi/react-random-interval.git"
+    "url": "git+https://github.com/behnamazimi/react-random-interval-hook.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/behnamazimi/react-random-interval/issues"
+    "url": "https://github.com/behnamazimi/react-random-interval-hook/issues"
   },
-  "homepage": "https://github.com/behnamazimi/react-random-interval#readme",
+  "homepage": "https://github.com/behnamazimi/react-random-interval-hook#readme",
   "peerDependencies": {
     "react": ">=16.10"
   },
